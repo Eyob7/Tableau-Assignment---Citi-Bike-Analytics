@@ -1,5 +1,5 @@
 # Tableau-Assignment---Citi-Bike-Analytics
-![](image/filename citi-bike-station-bikes.jpg)
+![](Images/citi-bike-station-bikes.jpg)
 
 
 
